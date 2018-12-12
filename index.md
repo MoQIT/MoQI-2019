@@ -7,9 +7,18 @@ title: Home
 
 ## {{ site.description }}<br> {{ site.location }}
 
-## The idea of this workshop series in general
+<!-- ## The idea of this workshop series in general -->
 
-## {{ site.title }}
+The combination of quantum physics with information theory has posed
+new challenges for physicists and mathematicians. To further develop
+the field, researchers need to learn methods and understand open
+challenges in an interdisciplinary manner. On the mathematical side,
+results in algorithmic algebra, convex optimization, and multilinear
+algebra provide novel tools for tackling physical problems. In
+physics, open questions in entanglement theory, information processing
+and many-body systems are waiting for the mathematical advances to
+solve them. This workshop aims at bringing together researchers from
+both communities to exchange ideas and methods in an informal manner.
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
