@@ -5,7 +5,7 @@ title: Program
 
 ## Workshop
 * Start: Monday March 18th 2018 at 09:30
-* Finish: Thursday March 21th 2018 at 15:30
+* Finish: Thursday March 21th 2018 at 12:30
 
 ### Pad for the workshop
 

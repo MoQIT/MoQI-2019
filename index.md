@@ -22,15 +22,17 @@ both communities to exchange ideas and methods in an informal manner.
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
-## Invited speakers
+## Invited speakers (preliminary list)
 
 * Timo de Wolff (TU Braunschweig)
-* Barbara Kraus (U Innsbruck, Austria)
+* Barbara Kraus(*) (U Innsbruck, Austria)
 * Markus Lange-Hegermann (FH Ostwestfalen Lippe)
-* Miguel Navascues (Austrian academy of sciences)
+* Miguel Navascues(*) (Austrian academy of sciences)
 * Roman Orus (DIPC, San Sebastian, Spain)
 * Liqun Qi (U Hong Kong, China)
-* Andreas Winter (U Autonoma Barcelona, Spain)
+<!--* Andreas Winter (U Autonoma Barcelona, Spain)-->
+
+(*) to be confirmed
 
 ## Registering and stay
 
@@ -53,6 +55,22 @@ If you have questions or suggestions, please contact the organizers:
 This workshop is supported by
 * [SFB-TRR 195](https://www.computeralgebra.de/sfb/) -- Symbolic Tools in Mathematics and their Application;
 * ERC Consolidator Grant, Temporal Quantum Correlations.
+* Journal of Physics A
+
+<div class="row">
+  <div class="column">
+    <img src="TRR195_logo.png" alt="SFB TRR 195" width="200"/>
+  </div>
+  <div class="column">
+    <img src="erc-neu.jpg" alt="ERC" width="200"/>
+  </div>
+  <div class="column">
+    <img src="jphysaklein.jpg" alt="ERC" width="200"/>
+  </div>
+</div>
+
+<p float="left">
+</p>
 
 ## Previous and future workshops
 
