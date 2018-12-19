@@ -57,20 +57,16 @@ This workshop is supported by
 * ERC Consolidator Grant, Temporal Quantum Correlations.
 * Journal of Physics A
 
-<div class="row">
-  <div class="column">
-    <img src="TRR195_logo.png" alt="SFB TRR 195" width="200"/>
-  </div>
-  <div class="column">
-    <img src="erc-neu.jpg" alt="ERC" width="200"/>
-  </div>
-  <div class="column">
-    <img src="jphysaklein.jpg" alt="ERC" width="200"/>
-  </div>
-</div>
-
-<p float="left">
+<p>
+<img src="TRR195_logo.png" alt="SFB TRR 195" style="float: left; margin-right: 10px;" width="200"/>
+<img src="erc-neu.jpg" alt="ERC" style="float: left; margin-right: 10px;" width="100"/>
+<img src="jphysaklein.jpg" alt="ERC" style="float: left; margin-right: 10px;" width="200"/>
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Previous and future workshops
 
