@@ -22,12 +22,12 @@ both communities to exchange ideas and methods in an informal manner.
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
-## Invited speakers (preliminary list)
+## Invited speakers (incomplete list)
 
 * Timo de Wolff (TU Braunschweig)
 * Barbara Kraus(*) (U Innsbruck, Austria)
 * Markus Lange-Hegermann (FH Ostwestfalen Lippe)
-* Miguel Navascues(*) (Austrian academy of sciences)
+* Miguel Navascues (Austrian academy of sciences)
 * Roman Orus (DIPC, San Sebastian, Spain)
 * Liqun Qi (U Hong Kong, China)
 <!--* Andreas Winter (U Autonoma Barcelona, Spain)-->
