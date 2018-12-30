@@ -30,7 +30,7 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 * Miguel Navascues (Austrian academy of sciences)
 * Roman Orus (DIPC, San Sebastian, Spain)
 * Liqun Qi (U Hong Kong, China)
-<!--* Andreas Winter (U Autonoma Barcelona, Spain)-->
+* Andreas Winter (U Autonoma Barcelona, Spain)
 
 ## Registering and stay
 
