@@ -26,7 +26,7 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 
 * Timo de Wolff (TU Braunschweig)
 * Barbara Kraus (U Innsbruck, Austria)
-* Markus Lange-Hegermann (FH Ostwestfalen Lippe)
+* Markus Lange-Hegermann (Hochschule Ostwestfalen Lippe)
 * Miguel Navascues (Austrian academy of sciences)
 * Roman Orus (DIPC, San Sebastian, Spain)
 * Liqun Qi (U Hong Kong, China)
