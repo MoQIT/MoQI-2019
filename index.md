@@ -24,13 +24,20 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 
 ## Invited speakers (incomplete list)
 
-* Timo de Wolff (TU Braunschweig)
-* Barbara Kraus (U Innsbruck, Austria)
-* Markus Lange-Hegermann (Hochschule Ostwestfalen Lippe)
-* Miguel Navascues (Austrian academy of sciences)
-* Roman Orus (DIPC, San Sebastian, Spain)
-* Liqun Qi (U Hong Kong, China)
-* Andreas Winter (U Autonoma Barcelona, Spain)
+* **Timo de Wolff** (TU Braunschweig) <br/>
+  *(tba)*
+* **Barbara Kraus** (U Innsbruck, Austria) <br/>
+  *Local manipulation of entanglement*
+* **Markus Lange-Hegermann** (Hochschule Ostwestfalen Lippe) <br/>
+  *Gröbner bases and applications*
+* **Miguel Navascues** (Austrian academy of sciences) <br/>
+  *(tba)*
+* **Roman Orus** (DIPC, San Sebastian, Spain) <br/>
+  *On mathematical aspects of tensor network states and optimization methods*
+* **Liqun Qi** (U Hong Kong, China) <br/>
+  *Tensor Eigenvalues and Their Applications in Quantum Physics*
+* **Andreas Winter** (U Autonoma Barcelona, Spain) <br/>
+  *Resource theories of quantum channels and the universal role of resource erasure*
 
 ## Registering and stay
 
