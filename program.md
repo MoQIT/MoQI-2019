@@ -6,6 +6,8 @@ title: Program
 ## Workshop
 * Start: Monday March 18th 2019 at 09:00
 * Finish: Thursday March 21th 2019 at 12:30
+* Address: Walter-Flex-Str. 3, 52066 Siegen (Building D)
+* Room: tba
 
 ### Pad for the workshop
 
