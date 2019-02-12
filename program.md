@@ -9,8 +9,6 @@ title: Program
 * Address: Walter-Flex-Str. 3, 52066 Siegen (Building D)
 * Room: tba
 
-### Pad for the workshop
-
 ## Detailed Schedule (preliminary)
 
 - **Monday**
