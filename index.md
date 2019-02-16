@@ -22,10 +22,12 @@ both communities to exchange ideas and methods in an informal manner.
 
 More detailed information can be found on [the program page]({{ site.baseurl }}/program).
 
-## Invited speakers (incomplete list)
+## Invited speakers
 
 * **Timo de Wolff** (TU Braunschweig) <br/>
   *(tba)*
+* **Lars Grasedyck** (RWTH Aachen University) <br/>
+  *Numerical methods for hierarchical low rank tensor*
 * **Barbara Kraus** (U Innsbruck, Austria) <br/>
   *Local manipulation of entanglement*
 * **Markus Lange-Hegermann** (Hochschule Ostwestfalen Lippe) <br/>
@@ -35,7 +37,7 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 * **Roman Orus** (DIPC, San Sebastian, Spain) <br/>
   *On mathematical aspects of tensor network states and optimization methods*
 * **Liqun Qi** (U Hong Kong, China) <br/>
-  *Tensor Eigenvalues and Their Applications in Quantum Physics*
+  *Tensor eigenvalues and their applications in quantum physics*
 * **Andreas Winter** (U Autonoma Barcelona, Spain) <br/>
   *Resource theories of quantum channels and the universal role of resource erasure*
 
