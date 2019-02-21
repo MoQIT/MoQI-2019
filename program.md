@@ -26,7 +26,7 @@ title: Program
     *Tensor Eigenvalues and Their Applications in Quantum Physics, Part II*
   * 15:00 -- 15:30 Coffee/Tea break
   * 15:30 -- 15:55 Zahra Raissi <br>
-    *tba*
+    *Constructing k-uniform states of non-minimal support and study the graph states representation*
   * 15:55 -- 16:20 Felipe M Mora <br>
     *tba*
   * 19:00 Conference dinner
