@@ -56,7 +56,7 @@ title: Program
   * 10:00 -- 10:25 Denis Rosset <br>
     *Automating the decomposition of finite dimensional group representations*
   * 10:25 -- 11:00 Coffee/Tea break
-  * 11:00 -- 12:00 Time de Wolff <br>
+  * 11:00 -- 12:00 Timo de Wolff <br>
     *New Dependencies of Hierarchies in Polynomial Optimization*
   * 12:00 -- 12:25 Markus Heinrich <br>
     *Some applications of symmetry reductions in convex optimization*
