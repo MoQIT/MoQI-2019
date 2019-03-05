@@ -14,13 +14,22 @@
   affiliation: Universität Innsbruck
 
 - name: Barbara Kraus
-  affiliation: Institute for Theoretical Physics University of Innsbruck
+  affiliation: Institute for Theoretical Physics, University of Innsbruck
+
+- name: Bianka Woloncewicz
+  affiliation: University of Gdansk, International Centre of Theory for Quantum Technologies
 
 - name: Constantino Rodriguez Ramos
   affiliation: Nottingham Trent University
 
 - name: Cornelia Spee
   affiliation: Universität Siegen
+
+- name: Dagmar Bruss
+  affiliation: University of Duesseldorf
+
+- name: Daniel Miller
+  affiliation: Institut für Theoretische Physik III, HHU Düsseldorf
 
 - name: David Sabonis
   affiliation: University of Copenhagen
@@ -41,7 +50,7 @@
   affiliation: University of Siegen
 
 - name: Grzegorz Rajchel
-  affiliation: Centre for Theoretical Physics Polish Academy of Sciences Warsaw
+  affiliation: Centre for Theoretical Physics, Polish Academy of Sciences, Warsaw
 
 - name: Guofeng Zhang
   affiliation: The Hong Kong Polytechnic University
@@ -49,8 +58,11 @@
 - name: H. Chau Nguyen
   affiliation: University of Siegen
 
+- name: Ivan Oseledets
+  affiliation: Skolkovo Institute of Science and Technology
+
 - name: Jinjie Liu
-  affiliation: Department of Applied Mathematics The Hong Kong Polytechnic University
+  affiliation: Department of Applied Mathematics, The Hong Kong Polytechnic University
 
 - name: Jonathan Steinberg
   affiliation: Uni Siegen
@@ -58,14 +70,23 @@
 - name: Kamal Saleh
   affiliation: University of Siegen
 
+- name: Kaonan Campos Micadei Bueno
+  affiliation: University of Stuttgart
+
 - name: Kishor Bharti
   affiliation: Centre for Quantum Technologies National University of Singapore
 
+- name: Konrad Szymański
+  affiliation: Jagiellonian University
+
 - name: Lars Grasedyck
-  affiliation: RWTH Aachen IGPM
+  affiliation: RWTH Aachen, IGPM
 
 - name: Liqun Qi
   affiliation: The Hong Kong Polytechnic University
+
+- name: Lucas Tendick
+  affiliation: Heinrich-Heine-Universität Düsseldorf
 
 - name: Marcel Seelbach
   affiliation: University of Siegen
@@ -80,40 +101,58 @@
   affiliation: HS-OWL
 
 - name: Martin Dönges
-  affiliation: Johannes Gutenberg-Universität Mainz Arbeitsgruppe Numerische Mathematik
+  affiliation: Johannes Gutenberg-Universität Mainz, Arbeitsgruppe Numerische Mathematik
 
 - name: Marwan Ait Haddou
-  affiliation: High Energy Physics and Astrophysics laboratory Cadi Ayad University Marrakech
+  affiliation: High Energy Physics and Astrophysics laboratory, Cadi Ayad University, Marrakech
+
+- name: Matthias Englbrecht
+  affiliation: Universität Innsbruck
 
 - name: Matthias Kleinmann
   affiliation: University of Siegen
 
 - name: Michael Mc Gettrick
-  affiliation: National University of Ireland Galway
+  affiliation: National University of Ireland, Galway
 
 - name: Miguel Navascués
-  affiliation: IQOQI Vienna Austrian Academy of Sciences
+  affiliation: IQOQI Vienna, Austrian Academy of Sciences
 
 - name: Mohamed Barakat
   affiliation: University of Siegen
 
 - name: Muzzamal Iqbal Shaukat
-  affiliation: Instituto Superior Tecnico Universidade de Lisboa Lisboa Portugal
+  affiliation: Instituto Superior Tecnico, Universidade de Lisboa, Lisboa, Portugal
 
 - name: Niaz Ali Khan
-  affiliation: Department of Physics and Astronomy University of Porto Portugal
+  affiliation: Department of Physics and Astronomy, University of Porto, Portugal
 
 - name: Nikolai Wyderka
   affiliation: Universität Siegen
 
+- name: Nikolay Ivankov
+  affiliation: Resolto Informatik GmbH
+
+- name: Omer Sakarya
+  affiliation: University of Gdansk,Institute of Informatics,National Quantum Information Cenre
+
+- name: Oreste Panaia
+  affiliation: PrimeKey
+
 - name: Otfried Gühne
   affiliation: University of Siegen
+
+- name: Palash Pandya
+  affiliation: Institute of Theoretical Physics and Astrophysics, University of Gdansk
+
+- name: Paul Appel
+  affiliation: IQOQI Vienna
 
 - name: Rafael Freitas dos Santos
   affiliation: Center for Theoretical Physics of the Polish Academy of Sciences
 
 - name: Remigiusz Augusiak
-  affiliation: Center for Theoretical Physics Polish Academy of Sciences
+  affiliation: Center for Theoretical Physics, Polish Academy of Sciences
 
 - name: Roman Orus
   affiliation: DIPC
@@ -127,8 +166,8 @@
 - name: Sebastian Posur
   affiliation: University of Siegen
 
-- name: Tanmoy Biswas
-  affiliation: University of Gdansk
+- name: Stefan Krupp
+  affiliation: University of Cologne
 
 - name: Thorsten Raasch
   affiliation: University of Siegen
@@ -141,6 +180,9 @@
 
 - name: Timo Simnacher
   affiliation: Universität Siegen
+
+- name: Tom Kuhmichel
+  affiliation: University of Siegen
 
 - name: Tristan Kraft
   affiliation: Uni Siegen
@@ -159,3 +201,4 @@
 
 - name: Zhen-Peng Xu
   affiliation: University of Siegen
+
