@@ -49,6 +49,24 @@ regarding registration or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
+    <label for="gender">Gender <span class="form-field-req">*</span></label> 
+  </div>
+  <select name="gender" id="gender" required>
+    <option value="female">female</option>
+    <option value="male">male</option>
+    <option value="diverse">diverse</option>
+  </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="email">Academic degree <span class="form-field-req">*</span></label>
+  </div>
+  <input type="email" size="60" maxlength="80" name="academic_degree" required />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
     <label for="email">Email <span class="form-field-req">*</span></label>
   </div>
   <input type="email" size="60" maxlength="80" name="email" required />
@@ -56,7 +74,7 @@ regarding registration or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
-    <label for="affiliation">Affiliation</label>
+    <label for="affiliation">Affiliation <span class="form-field-req">*</span></label>
   </div>
   <div class="form-field-description">
     Please enter the name of your home university, institute etc., if any. 
@@ -71,7 +89,7 @@ regarding registration or in general, feel free to
   <div class="form-field-description">
     Please select the day of arrival (we will start Monday 10 am).
   </div>
-  <select name="arrival.date" id="arrival_date" required>
+  <select name="arrival_date" id="arrival_date" required>
     <option value="Saturday 16 Mar">Saturday 16 Mar</option>
     <option value="Sunday 17 Mar" selected="selected">Sunday 17 Mar</option>
     <option value="Monday 18 Mar">Monday 18 Mar</option>
@@ -87,7 +105,7 @@ regarding registration or in general, feel free to
   <div class="form-field-description">
     Please select the day of departure (we will finish Thursday noon).
   </div>
-  <select name="departure.date" id="departure_date" required>
+  <select name="departure_date" id="departure_date" required>
     <option value="Tuesday 19 Mar">Tuesday 19 Mar</option>
     <option value="Wednesday 20 Mar">Wednesday 20 Mar</option>
     <option value="Thursday 21 Mar" selected="selected">Thursday 21 Mar</option>
@@ -112,6 +130,39 @@ regarding registration or in general, feel free to
 
 <div class="form-field">
   <div class="form-field-title">
+    <label for="talk">Title of contributed talk</label>
+  </div>
+  <div class="form-field-description">
+    If you like to give a talk, then please provide a title.
+    We will do our best to take all requests into account, but cannot
+    promise anything further at the moment.
+  </div>
+  <textarea name="comments" rows="10" cols="60"></textarea>
+</div>
+
+<div class="form-field">
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="abstract">Abstract of contributed talk</label>
+  </div>
+  <div class="form-field-description">
+    If you like to give a talk, then please provide a short abstract below.
+  </div>
+  <textarea name="comments" rows="10" cols="60"></textarea>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="presentation">Comments</label>
+  </div>
+  <div class="form-field-description">
+    Here you may add any comments, questions or wishes regarding the workshop.
+  </div>
+  <textarea name="comments" rows="10" cols="60"></textarea>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
     <label for="accommodation">Accommodation</label>
   </div>
   <div class="form-field-description">
@@ -126,24 +177,6 @@ Canceling a booking has to be done 14 days in advance, otherwise the Hotel has t
 <!-- 
   <input type="text" size="60" maxlength="180" name="accommodation" />
  -->
-</div>
-
-<div class="form-field">
-  <div class="form-field-title">
-    <label for="presentation">Comments</label>
-  </div>
-  <div class="form-field-description">
-    Here you add any comments, questions or wishes
-    regarding the workshop.
-    <!--For example, you might like to give a
-    talk, then please provide the title and a short abstract below.
-    Or maybe you would like to hear a talk about a specific topic,
-    then please add your suggestion.
-    -->
-    We will do our best to take all requests into account, but cannot
-    promise anything further at the moment.
-  </div>
-  <textarea name="comments" rows="10" cols="60"></textarea>
 </div>
 
 <input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/thank-you' />
