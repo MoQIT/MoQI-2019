@@ -19,8 +19,8 @@ title: Program
   * 10:25 -- 11:00 Coffee/Tea break
   * 11:00 -- 12:00 Andreas Winter <br>
     *Resource theories of quantum channels and the universal role of resource erasure*
-  * 12:00 -- 12:25 Tanmoy Biswas <br>
-    *Operational relevance of resource theories of quantum measurements*
+  * 12:00 -- 12:25 Tristan Kraft <br>
+    *Quantifying quantum resources with conic programming*
   * 12:25 -- 14:00 Lunch
   * 14:00 -- 15:00 Guofeng Zhang <br>
     *Tensor Eigenvalues and Their Applications in Quantum Physics, Part II*
@@ -69,10 +69,10 @@ title: Program
   * 10:00 -- 10:25 Martin Dönges <br>
     *Optimization of tensor networks*
   * 10:25 -- 11:00 Coffee/Tea break
-  * 11:00 -- 11:25 Tim Seynnaeve <br>
+  * 11:00 -- 12:00 Ivan Oseledets <br>
+    *tba*
+  * 12:00 -- 12:25 Tim Seynnaeve <br>
     *Uniform matrix product states from an algebraic geometer’s point of view*
-  * 11:25 -- 11:50 Mariami Gachechiladze <br>
+  * 12:25 -- 12:50 Mariami Gachechiladze <br>
     *Connection between linear matrix pencils and coarse graining of entanglement in 2 x m x n systems*
-  * 11:50 -- 12:15 Tristan Kraft <br>
-    *Quantifying quantum resources with conic programming*
-  * 12:15 -- 14:00 Lunch
+  * 12:50 -- 14:00 Lunch
