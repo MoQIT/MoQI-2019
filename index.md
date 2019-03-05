@@ -25,7 +25,7 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
 ## Invited speakers
 
 * **Timo de Wolff** (TU Braunschweig) <br/>
-  *(tba)*
+  *New Dependencies of Hierarchies in Polynomial Optimization*
 * **Lars Grasedyck** (RWTH Aachen University) <br/>
   *Numerical methods for hierarchical low rank tensor*
 * **Barbara Kraus** (U Innsbruck, Austria) <br/>
