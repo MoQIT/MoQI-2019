@@ -36,6 +36,8 @@ More detailed information can be found on [the program page]({{ site.baseurl }}/
   *(tba)*
 * **Roman Orus** (DIPC, San Sebastian, Spain) <br/>
   *On mathematical aspects of tensor network states and optimization methods*
+* **Ivan Oseledets** (Skolkovo Institute of Science and Technology, Russia) <br/>
+  *Modelling quantum systems on classical computers: approximation and high-performance computing*
 * **Liqun Qi** (U Hong Kong, China) <br/>
   *Tensor eigenvalues and their applications in quantum physics*
 * **Andreas Winter** (U Autonoma Barcelona, Spain) <br/>
