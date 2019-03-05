@@ -70,7 +70,7 @@ title: Program
     *Optimization of tensor networks*
   * 10:25 -- 11:00 Coffee/Tea break
   * 11:00 -- 12:00 Ivan Oseledets <br>
-    *tba*
+    *Modelling quantum systems on classical computers: approximation and high-performance computing*
   * 12:00 -- 12:25 Tim Seynnaeve <br>
     *Uniform matrix product states from an algebraic geometer’s point of view*
   * 12:25 -- 12:50 Mariami Gachechiladze <br>
