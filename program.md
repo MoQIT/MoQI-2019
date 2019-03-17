@@ -3,6 +3,8 @@ layout: page
 title: Program
 ---
 
+[Click to download as PDF](/MoQI-2019/MoQI-2019.pdf)
+
 ## Workshop
 * Start: Monday March 18th 2019 at 09:00
 * Finish: Thursday March 21th 2019 at 12:30
