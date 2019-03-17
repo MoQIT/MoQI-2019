@@ -12,7 +12,7 @@ and
 <h4>Address</h4>
 Emmy Noether Campus, <br>
 Walter-Flex-Str. 3, <br>
-Room D-308.
+Room ENC-D 114.
 
 
 Please look [here](http://www.physik.uni-siegen.de/anfahrt/index.html.en?lang=en) for directions.
