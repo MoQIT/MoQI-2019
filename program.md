@@ -52,7 +52,7 @@ title: Program
  
 - **Wednesday**
   * 09:00 -- 10:00 Miguel Navascués <br>
-    *tba*
+    *LP and SDP hierarchies in quantum information theory*
   * 10:00 -- 10:25 Denis Rosset <br>
     *Automating the decomposition of finite dimensional group representations*
   * 10:25 -- 11:00 Coffee/Tea break
