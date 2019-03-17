@@ -27,8 +27,8 @@ title: Program
   * 15:00 -- 15:30 Coffee/Tea break
   * 15:30 -- 15:55 Zahra Raissi <br>
     *Constructing k-uniform states of non-minimal support and study the graph states representation*
-  * 15:55 -- 16:20 Felipe M Mora <br>
-    *tba*
+  * 15:55 -- 16:20 Markus Heinrich <br>
+    *Some applications of symmetry reductions in convex optimization*
   * 19:00 Conference dinner
 
 - **Tuesday**
@@ -58,8 +58,8 @@ title: Program
   * 10:25 -- 11:00 Coffee/Tea break
   * 11:00 -- 12:00 Timo de Wolff <br>
     *New Dependencies of Hierarchies in Polynomial Optimization*
-  * 12:00 -- 12:25 Markus Heinrich <br>
-    *Some applications of symmetry reductions in convex optimization*
+  * 12:00 -- 12:25 Felipe M Mora <br>
+    *Representation theory of tensor power Cliffords*
   * 12:25 -- 14:00 Lunch
   * 14:00 Social program
 
