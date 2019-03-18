@@ -31,7 +31,8 @@ title: Program
     *Constructing k-uniform states of non-minimal support and study the graph states representation*
   * 15:55 -- 16:20 Markus Heinrich <br>
     *Some applications of symmetry reductions in convex optimization*
-  * 19:00 Conference dinner
+  * 19:00 Conference dinner <br>
+    [Alter Weinkeller](http://www.alterweinkeller.de), Hainstraße 1, Siegen
 
 - **Tuesday**
   * 09:00 -- 10:00 Barbara Kraus <br>
@@ -63,7 +64,8 @@ title: Program
   * 12:00 -- 12:25 Felipe M Mora <br>
     *Representation theory of tensor power Cliffords*
   * 12:25 -- 14:00 Lunch
-  * 14:00 Social program
+  * 14:00 -- 17:00 Social program <br>
+    Brauerei Erzquell (costs 12,50 Euros), with the train 14:01 from Siegen Hbf (please come early to buy a ticket to Niederschelden, 7 minutes ride)
 
 - **Thursday**
   * 09:00 -- 10:00 Roman Orus <br>
